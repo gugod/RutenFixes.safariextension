@@ -43,7 +43,9 @@
 			<string>Some</string>
 		</dict>
 	</dict>
+	<key>Update Manifest URL</key>
+	<string>http://gugod.github.com/RutenFixes.safariextension/update-manifest.plist</string>
 	<key>Website</key>
-	<string>https://github.com/gugod/SafariRutenFixes.safariextension</string>
+	<string>http://gugod.github.com/RutenFixes.safariextension/</string>
 </dict>
 </plist>

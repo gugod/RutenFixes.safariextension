@@ -1,0 +1,64 @@
+body {
+    font-size: 100% !important;
+}
+
+.page-header:after {
+    content: " ";
+    visibility: hidden;
+    clear: both;
+    height: 1px;
+    width: 1px;
+}
+
+div.layout > div.side-bar {
+    width: 200px      !important;
+    margin-right: 5px !important;
+}
+
+div.layout > div.side-bar div.block {
+    width: 200px !important;
+}
+
+div.layout > div.content {
+    clear: none   !important;
+    float: left   !important;
+    width: 1040px !important;
+}
+
+div.layout > div.content div.block > div.content {
+    width: 790px !important;
+}
+
+div.layout > div.content div.block p.block-more {
+    text-align: right !important;
+    position: static  !important;
+    margin: -25px 20px 0 0 !important;
+    float: right      !important;
+    width: 30em       !important;
+    display: block;
+    height: 25px;
+    line-height: 25px;
+}
+
+ul.adver-text1 {
+    float: left;
+    margin: 0 0 0 0 !important;
+    width:  1044px !important;
+}
+
+ul.adver-text1:after {
+    content: " ";
+    visibility: hidden;
+    clear: both;
+    height: 1px;
+    width: 1px;
+}
+
+div.content>div.content-left {
+    margin-left: 5px !important;    
+}
+
+div.layout > div.content div.good-shop div.content div.shop-list {
+    width: 100%  !important;
+    margin: 0px  !important;
+}

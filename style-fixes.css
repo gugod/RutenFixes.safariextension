@@ -62,3 +62,21 @@ div.layout > div.content div.good-shop div.content div.shop-list {
     width: 100%  !important;
     margin: 0px  !important;
 }
+
+div.layout div.main-content div.sub-content {
+    width: 840px !important;
+}
+
+div.layout div.main-content div.search-data-content {
+    width: 670px !important;
+    margin: 0    !important;
+}
+
+#searchKey {
+    margin-left: 5px;
+    width: 85px  !important;
+}
+
+div.search-advanced h2 span {
+    padding: 5px 15px 5px 5px !important;
+}
